@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@progress/kendo-licensing": "latest",
+    "@progress/kendo-react-animation": "latest",
+    "@progress/kendo-react-buttons": "latest",
+    "@progress/kendo-react-dropdowns": "latest",
+    "@progress/kendo-react-intl": "latest",
+    "@progress/kendo-react-progressbars": "5.13.1",
+    "@progress/kendo-react-treeview": "latest",
+    "@progress/kendo-svg-icons": "latest",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "description": "Example usage of KendoReact\nSee [https://www.telerik.com/kendo-react-ui/components/buttons/toolbar/appearance/](https://www.telerik.com/kendo-react-ui/components/buttons/toolbar/appearance/)",
+  "tags": "React,KendoReact",
+  "keywords": [],
+  "name": "kendo-toolbar-with-label"
+}
